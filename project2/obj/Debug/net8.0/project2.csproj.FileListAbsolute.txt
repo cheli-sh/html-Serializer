@@ -1,0 +1,64 @@
+C:\Users\1\Desktop\חלי\practycode\project2\project2\bin\Debug\net8.0\project2.exe
+C:\Users\1\Desktop\חלי\practycode\project2\project2\bin\Debug\net8.0\JSON Files\HtmlTags.json
+C:\Users\1\Desktop\חלי\practycode\project2\project2\bin\Debug\net8.0\JSON Files\HtmlVoidTags.json
+C:\Users\1\Desktop\חלי\practycode\project2\project2\bin\Debug\net8.0\project2.deps.json
+C:\Users\1\Desktop\חלי\practycode\project2\project2\bin\Debug\net8.0\project2.runtimeconfig.json
+C:\Users\1\Desktop\חלי\practycode\project2\project2\bin\Debug\net8.0\project2.dll
+C:\Users\1\Desktop\חלי\practycode\project2\project2\bin\Debug\net8.0\project2.pdb
+C:\Users\1\Desktop\חלי\practycode\project2\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\חלי\practycode\project2\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\חלי\practycode\project2\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+C:\Users\1\Desktop\חלי\practycode\project2\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\חלי\practycode\project2\project2\obj\Debug\net8.0\project2.dll
+C:\Users\1\Desktop\חלי\practycode\project2\project2\obj\Debug\net8.0\refint\project2.dll
+C:\Users\1\Desktop\חלי\practycode\project2\project2\obj\Debug\net8.0\project2.pdb
+C:\Users\1\Desktop\חלי\practycode\project2\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
+C:\Users\1\Desktop\חלי\practycode\project2\project2\obj\Debug\net8.0\ref\project2.dll
+D:\פרקטי\project2\project2\bin\Debug\net8.0\project2.exe
+D:\פרקטי\project2\project2\bin\Debug\net8.0\JSON Files\HtmlTags.json
+D:\פרקטי\project2\project2\bin\Debug\net8.0\JSON Files\HtmlVoidTags.json
+D:\פרקטי\project2\project2\bin\Debug\net8.0\project2.deps.json
+D:\פרקטי\project2\project2\bin\Debug\net8.0\project2.runtimeconfig.json
+D:\פרקטי\project2\project2\bin\Debug\net8.0\project2.dll
+D:\פרקטי\project2\project2\bin\Debug\net8.0\project2.pdb
+D:\פרקטי\project2\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרקטי\project2\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+D:\פרקטי\project2\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+D:\פרקטי\project2\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+D:\פרקטי\project2\project2\obj\Debug\net8.0\project2.dll
+D:\פרקטי\project2\project2\obj\Debug\net8.0\refint\project2.dll
+D:\פרקטי\project2\project2\obj\Debug\net8.0\project2.pdb
+D:\פרקטי\project2\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
+D:\פרקטי\project2\project2\obj\Debug\net8.0\ref\project2.dll
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\bin\Debug\net8.0\project2.exe
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\bin\Debug\net8.0\JSON Files\HtmlTags.json
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\bin\Debug\net8.0\JSON Files\HtmlVoidTags.json
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\bin\Debug\net8.0\project2.deps.json
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\bin\Debug\net8.0\project2.runtimeconfig.json
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\bin\Debug\net8.0\project2.dll
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\bin\Debug\net8.0\project2.pdb
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\obj\Debug\net8.0\project2.dll
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\obj\Debug\net8.0\refint\project2.dll
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\obj\Debug\net8.0\project2.pdb
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
+C:\Users\pc\Desktop\שולמית\פרקטי\project2\project2\obj\Debug\net8.0\ref\project2.dll
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\bin\Debug\net8.0\project2.exe
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\bin\Debug\net8.0\JSON Files\HtmlTags.json
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\bin\Debug\net8.0\JSON Files\HtmlVoidTags.json
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\bin\Debug\net8.0\project2.deps.json
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\bin\Debug\net8.0\project2.runtimeconfig.json
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\bin\Debug\net8.0\project2.dll
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\bin\Debug\net8.0\project2.pdb
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\obj\Debug\net8.0\project2.dll
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\obj\Debug\net8.0\refint\project2.dll
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\obj\Debug\net8.0\project2.pdb
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
+C:\Users\1\Desktop\חלי\סופיייייייי\פרקטי\project2\project2\obj\Debug\net8.0\ref\project2.dll
